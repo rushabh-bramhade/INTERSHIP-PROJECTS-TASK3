@@ -10,12 +10,11 @@ Mathematical expressions are evaluated instantly
 The result is displayed on the calculator screen
 
 The Clear (C) button resets the calculator
-
-</br>
+</hr></br>
 
 ✨ Features
 
-</br>
+</hr></br>
 
 Basic arithmetic operations (+, −, ×, ÷)
 
@@ -26,30 +25,29 @@ Instant calculation without page reload
 Clean UI with readable display
 
 Beginner-friendly code structure
-</br>
+</hr></br>
 
 📸 Preview
 
-</br>
-
+</hr></br>
 A clean calculator interface with responsive buttons and display area.
 
 📷 (You can add a screenshot of your project here later)
 
 🛠️ Technologies Used
 
-</br>
+</hr></br>
 
 HTML – Structure of the calculator
 
 CSS – Styling and layout
 
 JavaScript – Logic and interactivity
-</br>
+</hr></br>
 
 🎯 Learning Outcomes
 
-</br>
+</hr></br>
 
 Through this project, I learned:
 
@@ -65,22 +63,19 @@ Writing clean, readable, and maintainable code
 </hr>
 
 <h1>🧑‍💻 Internship Note</h1>
-</br>
-
+</hr></br>
 This project was created as part of my Frontend Development Internship
 to demonstrate my understanding of HTML, CSS, and JavaScript fundamentals.
-</br>
+</hr></br>
 
 📬 Contact
-
-</br>
+</hr></br>
 
 Feel free to connect with me for feedback or collaboration:
 
 GitHub: https://github.com/rushabh-bramhade
 
 LinkedIn: https://www.linkedin.com/in/rushabh-bramhade-6455812b6/
-
-</br>
+</hr></br>
 
 ⭐ If you like this project, don’t forget to star ⭐ the repository!
