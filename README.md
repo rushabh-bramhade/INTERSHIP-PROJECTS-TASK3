@@ -1,34 +1,37 @@
-<h1>🚀 How It Works</h1>
+<h1>🎵 Music Player Mini Project</h1>
 </hr></br>
 
-Users click buttons to input numbers and operators
+A modern and aesthetic Music Player Web Application built using HTML, CSS, and JavaScript.
+This project allows users to play, pause, seek, and track audio playback with a clean Spotify-inspired UI.
 
-JavaScript captures button clicks using event listeners
+Users click the Play / Pause button to control music playback
 
-Mathematical expressions are evaluated instantly
+JavaScript controls the audio using the <audio> API
 
-The result is displayed on the calculator screen
+A progress bar shows the current playback position
 
-The Clear (C) button resets the calculator
+Users can drag the progress bar to seek through the song
+
+A timer displays current time and total duration of the track
 </hr>
 
 <h1>✨ Features</h1>
 </hr>
 
-Basic arithmetic operations (+, −, ×, ÷)
+▶️ Play / Pause music control
 
-Responsive and user-friendly interface
+🎚️ Seek bar for navigation
 
-Instant calculation without page reload
+⏱️ Live song timer (current time & duration)
 
-Clean UI with readable display
+🎨 Clean, dark, Spotify-style UI
 
-Beginner-friendly code structure
+📱 Responsive and user-friendly design
 </hr></br>
 
 <h1>📸 Preview</h1>
 </hr></br>
-A clean calculator interface with responsive buttons and display area.
+A modern music player interface with album art, playback controls, and a progress bar.
 
 <img width="1236" height="574" alt="image" src="https://github.com/user-attachments/assets/58f7ebea-3317-4be5-b857-8b165a18b271" />
 
@@ -36,12 +39,11 @@ A clean calculator interface with responsive buttons and display area.
 <h1>🛠️ Technologies Used</h1>
 
 </hr></br>
+HTML – Structure of the music player
 
-HTML – Structure of the calculator
+CSS – Styling, layout, and aesthetic design
 
-CSS – Styling and layout
-
-JavaScript – Logic and interactivity
+JavaScript – Audio control, event handling, and logic
 </hr></br>
 
 <h1>🎯 Learning Outcomes</h1>
@@ -62,8 +64,9 @@ Writing clean, readable, and maintainable code
 
 <h1>🧑‍💻 Internship Note</h1>
 </hr></br>
-This project was created as part of my Frontend Development Internship
-to demonstrate my understanding of HTML, CSS, and JavaScript fundamentals.
+This project was developed as part of my Frontend Development Internship
+to demonstrate my understanding of HTML, CSS, and JavaScript fundamentals,
+along with basic UI/UX design concepts.
 </hr></br>
 
 <h1>📬 Contact</h1>
